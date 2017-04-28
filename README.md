@@ -1,4 +1,4 @@
-# Spring boot使用的各种示例，以最简单、最实用为标准
+# spring boot使用的各种示例，以最简单、最实用为标准
 
 
 spring-boot-helloWorld：spring-boot的helloWorld版本
@@ -14,7 +14,7 @@ spring-boot-scheduler：spring-boot定时任务示例
 
 
 
-文章请看：
+# 文章请看：
 
 [Spring Boot（1）—— Spring Boot简介](http://blog.csdn.net/eff666/article/details/70153816)
 
